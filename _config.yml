@@ -1,4 +1,4 @@
-plugins:
+plugins: 
   - jekyll-seo-tag
   
   name: Pushpinder Singh Grewal
@@ -11,7 +11,7 @@ url - http://pushpindersinghgrewal.tk
 
 author - Pushpinder Singh Grewal
 
-author_email:pndrgrewal12@gmail.com
+author_email: pndrgrewal12@gmail.com
 
 twitter:
   username: pndrgrewal
